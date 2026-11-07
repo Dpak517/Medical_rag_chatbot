@@ -81,7 +81,7 @@ Faithfulness measures whether every claim in the answer is supported by the retr
 
 ```bash
 # 1. Clone the repository
-git clone <your-repo-url>
+git clone (https://github.com/Dpak517/Medical_rag_chatbot)
 cd medical_chatbot
 
 # 2. Create a virtual environment
