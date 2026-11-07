@@ -1,11 +1,10 @@
 streamlit
 python-dotenv
-pypdf
-pinecone
-sentence-transformers
 langchain
+langchain-core
 langchain-community
-langchain-text-splitters
 langchain-huggingface
 langchain-pinecone
 langchain-groq
+sentence-transformers
+pinecone
